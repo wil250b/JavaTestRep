@@ -1,2 +1,2 @@
-# JavaTestRep
+# JavaTestRepo
 Second test repository for java
